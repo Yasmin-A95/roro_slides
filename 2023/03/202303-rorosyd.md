@@ -6,7 +6,7 @@ slide-transition: push(0.3)
 
 # [fit] **Ruby or Rails**
 # [fit] **_Oceania_**
-# [fit]14 February 2023
+# [fit]14 March 2023
 
 
 ^
@@ -139,14 +139,9 @@ Show of hands who's had something to eat (trying to figure out if we've order to
 
 ---
 
-# Welcome Daniel & David
-## __to the Organising Team__
-[.column]
-![inline](https://ca.slack-edge.com/T039RN1PH-U04DW4FE6BY-f08bea29c96d-512)
-
-[.column]
-![inline](https://avatars.githubusercontent.com/u/64909385?v=4)
-
+# Farewell Matt! 
+## __happy travels__
+![left]()
 
 ^
 <CLAP>
@@ -156,15 +151,14 @@ We've got more help, the organising team has grown by 2!
 [.hide-footer]
 [.slidenumbers: false]
 
-![left](https://tobyturnbull.github.io/img/profile.jpeg)
+![left](https://github.com/Yasmin-A95/roro_slides/blob/master/2023/03/assets/justin.png)
 
-# [fit] *Why you should use AASM*
-# [fit] **(If you aren't already) + bonus kittens 😺**
-# [fit] **_Toby Turnbull_**
+# [fit] *Faster Rails*
+# [fit] **How to get your database speedy**
+# [fit] **_Justin_**
 
 ^
-Toby will be covering the AASM gem and why state machines are important. (and some kittens)
-
+Justin will be covering how to get your rails app performing at bullet train speeds
 ---
 
 [.hide-footer]
@@ -174,10 +168,10 @@ Toby will be covering the AASM gem and why state machines are important. (and so
 
 # [fit] *How to develop your rails application*
 # [fit] **on GitHub codespaces**
-# [fit] **_Dina Esmaeili_**
+# [fit] **Benjamin Greig**
 
 ^
-Dina will be talking about docker containers and how to set up your devcontainer to develop your rails/mysql application using GitHub codespaces
+Benjamin will be covering the Bob exorcism challenge
 
 ---
 
