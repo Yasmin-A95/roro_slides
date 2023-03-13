@@ -66,7 +66,7 @@ With the new year we've had a change up sponsors.
 [.background-color: #FFFFFF]
 [.text: #000000, alignment(center)]
 # [fit] **Drink & Venue Sponsor**
-![inline](https://2nston2jrlo01xc1tr2blz3g-wpengine.netdna-ssl.com/wp-content/uploads/2020/10/mable-logo-white.svg)
+![inline](https://mablestaging.wpenginepowered.com/wp-content/uploads/2020/10/mable-logo-white.svg)
 
 ^
 Mable are on a mission to improve access to affordable, flexible, quality support and care for Australians everywhere
@@ -139,6 +139,7 @@ Show of hands who's had something to eat (trying to figure out if we've order to
 
 ---
 
+<<<<<<< Updated upstream
 # Farewell Matt! 
 ## __happy travels__
 ![left]()
@@ -146,12 +147,51 @@ Show of hands who's had something to eat (trying to figure out if we've order to
 ^
 <CLAP>
 We've got more help, the organising team has grown by 2!
+=======
+# Farewell Matt
+## __happy travels, we look forward to hearing the lumberjack tales__
+[.column]
+![inline](https://avatars.githubusercontent.com/u/1100707?v=4)
+>>>>>>> Stashed changes
 
 ---
+
 [.hide-footer]
 [.slidenumbers: false]
 
+<<<<<<< Updated upstream
 ![left](https://github.com/Yasmin-A95/roro_slides/blob/master/2023/03/assets/justin.png)
+=======
+![left](https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/1841/thumb_tarun.jpg)
+
+# [fit] *The Multiverse of Madness*
+# [fit] **Compelex State Management**
+# [fit] **_Tarun M_**
+
+^
+Tarun will be teaching us how to manage state complexity across multiple databases like a true Sorcerer Supreme
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://uc0ae0b61a5abb657621834a08f0.previews.dropboxusercontent.com/p/thumb/AB04Mh_foAqUbsSJ0guGePkYDc-uxoD5ZDxkeFCz8Lv1KFy3bbLV6lbUEk5SGq4bu83Ge-QnmaAGO6k9CM463Ah_bng6FRCfpS_Te1PyBfWiAfrsdRhKceh1Prf4hzDmcXoh0vy7rxt7sNw_REwLddA70HHxi2aVA23dTTgc-Jrk7std5THBbQGypLOtOZ6BFmN8EZ8q5TcAooWM4eyiQDoHpMs-4lJfQ6mSCqTL-RDH76Nd5ga-2ACMEWTy0XGg-Cz8uum_-OuKoPNjGkl9100yhXrRxaBNmoMy4QI0zR5lmvBAR84S19ug5o20W1IPG2vOl-Wk7oqFziJe8-EfZ2xwlpc4N2hyWdrGd_eF9oFDvQJL8bupxtqQAE7wSxz_LdF2MseRj3Fw4FvNB3DZW61XtbOHxWx7e8Xu8NNdDSmu7p_6HIpq4ihXABVn30IfRUQlp0d6M6QZt4eBMqiB9hFtqVWelwPyUeqxCrow_9mT4g/p.png)
+
+# [fit] *Faster Rails*
+# [fit] **How to optimise your rails app for speed**
+# [fit] **_Justin_**
+
+^
+Justin will be covering performance monitoring and the most common ways to improve response times. (N+1 queries and database indicies, if enough, maybe also caching and memory allocation too)
+
+---
+
+[.hide-footer]
+[.slidenumbers: false]
+
+![left](https://user-images.githubusercontent.com/40282417/218888263-80169c43-2d42-468e-80b2-da6597ec6385.jpg)
+>>>>>>> Stashed changes
 
 # [fit] *Faster Rails*
 # [fit] **How to get your database speedy**
@@ -161,6 +201,7 @@ We've got more help, the organising team has grown by 2!
 Justin will be covering how to get your rails app performing at bullet train speeds
 ---
 
+<<<<<<< Updated upstream
 [.hide-footer]
 [.slidenumbers: false]
 
@@ -175,6 +216,8 @@ Benjamin will be covering the Bob exorcism challenge
 
 ---
 
+=======
+>>>>>>> Stashed changes
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit]
@@ -201,24 +244,17 @@ We're just going to take a quick break while we get the first speaker set, grab 
 ---
 
 
-# [fit] *Next Meetup's* Exercism(s)
+# [fit] *Next Meetup's* Exercism
 # </br>
-### **_Bob || Luhn Algorithm_**
+### **_Luhn Algorithm_**
 # </br>
 ##  *`exercism.io`*
 
 ^
-The exercism challenge for next month is either Bob or Luhn Algorithm.
+The exercism challenge for next month is the Luhn Algorithm.
 
 ---
-[.column]
-[.build-lists: true]
-### Bob
-
-- He answers 'Whoa, chill out!' if you YELL AT HIM (in all capitals).
-- He answers 'Calm down, I know what I'm doing!' if you yell a question at him.
-
-[.column]
+# [fit]
 
 ### The Luhn Algorithm
 Given a number
@@ -227,8 +263,6 @@ Given a number
 `8273 1232 7352 0569` - Invalid
 
 ^
-The Bob exercise has you determining how Bob will respond
-based on the question asked.
 The Luhn algorithm is a simple checksum formula used to validate if a given number is valid or not.
 Most will be familiar with this but probably didn't know your name, it's how a credit card form can tell you if you've typed an incorrect credit card number without submitting anything to a payment provider
 
@@ -257,8 +291,6 @@ We are looking for speakers!
 # [fit] **Where do I sign up?**
 
 - :globe_with_meridians: *`github.com/rubyaustralia/roro/issues`*
-- *`@matpushbuttons`*
-- *`@Yasmin_Arch`*
 - *:email: `rorosydmeetup@gmail.com`*
 
 
@@ -286,27 +318,22 @@ While Mable have been very generous we don't want to overstay our welcome so if 
 
 ---
 
-# Ruby Conf 2023
-## Feb 16th-17th Feb
+# Rails 7.1 introduces async queries
 
-https://rubyconf.org.au/2023
+- `ActiveRecord::Relation#load_async`:
+
+Schedules a query in a background thread pool, allowing us to do stuff like Post.where(published: true).load_async.
+
+^
+- This new feature builds on an earlier feature from rails 7. 
 
 ---
 
-# Bundler 2.4 Update
-
-- New rust skeleton extension 🦀
-  - `bundle gem --ext=rust hello_rust`
+# Rails 7.1 simplifies environment checks
+- a new `local?` method was added
 
 ^
-- The new rust skeleton extension provides you with the glue you need to start using rust insider your gems!
-
----
-
-# Rails 7.1 gets it's own docker file!
-
-^
-So you'll start seeing a dockerfile you can hopefully use to get up and running faster.
+Environment checks simplified! 
 
 ---
 
@@ -331,34 +358,17 @@ Offering: say your name, your company name, a sentence on what you do. And a sen
  *- `ruby.org.au/slack` #rorosyd*
  *- `forum.ruby.org.au`*
 
----
-
-### And one more thing....
-
----
-
-# I'm handing over the reigns
-
-![](/Users/mathew/Downloads/homer-bush-2.gif)
-
-^
-We've had a good run you and I. Bear with me while I toot my own horn.
-I picked up this organising gig from Paul and Rob in August of 2019, so I've been doing this 3.5 years! I managed to limp us through COVID
-and now I'm leaving you in good hands with Yasmin, David and Daniel to give this meetup it's own spin as I've attempted to do.
-I'll still be operating in the shadows to help with the transition, but this is the last time you'll have to put up with my dulcet tones.
-Thanks to those that have offered to speak in my many hours of need, you really made all the nerves I get when I stand up and talk to you lot well worth it.
-Please hold your tears, but I will take a good hearty round of applause if there's one going.
 
 ---
 
 
 # [fit] *Next Meetup*
-# [fit] 14 March 2023
-# [fit] **_\(2nd Tuesday of the month\)_**
+# [fit] 14 April 2023
+# [fit] **_\(2nd Friday of the month\)_**
 # [fit] *at* Mable
 
 ^
-ROROSyd will be back next month on the 14th of march.
+ROROSyd will be back next month on the 14th of April.
 
 ---
 
