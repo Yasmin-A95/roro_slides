@@ -139,29 +139,16 @@ Show of hands who's had something to eat (trying to figure out if we've order to
 
 ---
 
-<<<<<<< Updated upstream
-# Farewell Matt! 
-## __happy travels__
-![left]()
-
-^
-<CLAP>
-We've got more help, the organising team has grown by 2!
-=======
 # Farewell Matt
 ## __happy travels, we look forward to hearing the lumberjack tales__
 [.column]
 ![inline](https://avatars.githubusercontent.com/u/1100707?v=4)
->>>>>>> Stashed changes
 
 ---
 
 [.hide-footer]
 [.slidenumbers: false]
 
-<<<<<<< Updated upstream
-![left](https://github.com/Yasmin-A95/roro_slides/blob/master/2023/03/assets/justin.png)
-=======
 ![left](https://ga-core.s3.amazonaws.com/production/uploads/instructor/image/1841/thumb_tarun.jpg)
 
 # [fit] *The Multiverse of Madness*
@@ -191,33 +178,16 @@ Justin will be covering performance monitoring and the most common ways to impro
 [.slidenumbers: false]
 
 ![left](https://user-images.githubusercontent.com/40282417/218888263-80169c43-2d42-468e-80b2-da6597ec6385.jpg)
->>>>>>> Stashed changes
 
-# [fit] *Faster Rails*
-# [fit] **How to get your database speedy**
-# [fit] **_Justin_**
-
-^
-Justin will be covering how to get your rails app performing at bullet train speeds
----
-
-<<<<<<< Updated upstream
-[.hide-footer]
-[.slidenumbers: false]
-
-![left](https://avatars.githubusercontent.com/u/120369808?s=400&u=021d068ff9c292f3e1d2a6d187510d4ca16f82b6&v=4)
-
-# [fit] *How to develop your rails application*
-# [fit] **on GitHub codespaces**
-# [fit] **Benjamin Greig**
+# [fit] *Why you should use AASM*
+# [fit] **(If you aren't already) + bonus kittens 😺**
+# [fit] **_Toby Turnbull_**
 
 ^
-Benjamin will be covering the Bob exorcism challenge
+Toby will be covering the AASM gem and why state machines are important. (and some kittens)
 
 ---
 
-=======
->>>>>>> Stashed changes
 ![inline 4%](https://www.dropbox.com/s/6lcxixt3dtsiw3g/Twitter_logo_bird_transparent_png.png?dl=1)
 
 # [fit]
