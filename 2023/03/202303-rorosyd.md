@@ -183,7 +183,7 @@ Justin will be covering performance monitoring and the most common ways to impro
 # [fit] **_Benjamin G_**
 
 ^
-Toby will be covering the AASM gem and why state machines are important. (and some kittens)
+Benjamin will be covering the exorcism challenge
 
 ---
 
