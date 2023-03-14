@@ -181,7 +181,7 @@ Justin will be covering performance monitoring and the most common ways to impro
 
 # [fit] *Why you should use AASM*
 # [fit] **(If you aren't already) + bonus kittens 😺**
-# [fit] **_Toby Turnbull_**
+# [fit] **_Benjamin G_**
 
 ^
 Toby will be covering the AASM gem and why state machines are important. (and some kittens)
