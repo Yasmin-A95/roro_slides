@@ -183,7 +183,7 @@ Justin will be covering performance monitoring and the most common ways to impro
 # [fit] **_Benjamin G_**
 
 ^
-Benjamin will be covering the exorcism challenge
+Benjamin will be covering the exercism challenge
 
 ---
 
