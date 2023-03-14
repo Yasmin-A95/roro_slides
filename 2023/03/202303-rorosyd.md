@@ -179,8 +179,7 @@ Justin will be covering performance monitoring and the most common ways to impro
 
 ![left](https://user-images.githubusercontent.com/40282417/218888263-80169c43-2d42-468e-80b2-da6597ec6385.jpg)
 
-# [fit] *Why you should use AASM*
-# [fit] **(If you aren't already) + bonus kittens 😺**
+# [fit] *Our Exorcism Challenge: Bob*
 # [fit] **_Benjamin G_**
 
 ^
